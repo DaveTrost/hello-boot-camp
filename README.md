@@ -10,5 +10,7 @@ I wanted to learn how to put my notes into GitHub - I wanted to practice.
 I don’t know how to create my own repository on GitHub. I need to research. 
 I went through the tutorial on the GitHub front page. It turns out GitHub on my phone does not have a good way to create repositories, but on my iPad it is very easy! Now I have a readme file.
 
+I looked at the friends.json file. What format is this file? After sone research on wikipedia I learned that JSON is its own programming language, and the data in friends.json is an array of objects. Objects are collections of name-value pairs.
+
 
 
